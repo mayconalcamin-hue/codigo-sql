@@ -19,8 +19,3 @@ Este repositório contém o script SQL para criação e povoamento inicial do ba
 
 ---
 
-##  Como Usar
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/cafe.git
